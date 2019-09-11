@@ -1,0 +1,7 @@
+config/config.inc.php
+vendor
+composer.lock
+logs/*
+!logs/.htaccess
+temp/*
+!temp/.htaccess
